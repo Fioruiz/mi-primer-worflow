@@ -28,3 +28,5 @@ fi
 echo ""
 echo "✅ Todas las pruebas pasaron exitosamente 🎉"
 exit 0
+
+echo "Entorno: $APP_ENV"
